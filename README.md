@@ -48,9 +48,17 @@ Join us live on Twitter Spaces every Wednesday at 12pm PST.
 
 View the archive of past live sessions below:
 
+```
+
+```
+
 ### All posts by date
 
 Component with JavaScript Jam Live episodes.
+
+```
+
+```
 
 ## Composability Summit
 
@@ -62,6 +70,10 @@ On July 27th – 29th, 2022 we held the Composability Summit and it was a grand 
 
 Component with Composability Summit episodes.
 
+```
+
+```
+
 ## Newsletter Archive
 
 ### The podcast & community for frontend and full-stack developers
@@ -70,9 +82,19 @@ A weekly summary of the best and most important articles, podcasts, and videos a
 
 Subscribe button.
 
+Component hitting YouTube API to fetch episodes from YouTube account:
+
+```
+
+```
+
 ### Read past issues
 
 Component with Newsletter articles.
+
+```
+
+```
 
 ## Podcast
 
