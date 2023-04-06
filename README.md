@@ -1,10 +1,17 @@
 # javascriptjam.com
 
-The new and improved JavaScript Jam website built with Astro and deployed on Edgio 🚀
+The new and improved [JavaScript Jam](https://www.javascriptjam.com/) website built with Astro and deployed on Edgio 🚀
+
+## Outline of Pages
+
+- [Home Page](#home-page)
+- [JavaScript Jam Live](#javascript-jam-live)
+- [Composability Summit](#composability-summit)
+- [Newsletter Archive](#newsletter-archive)
+- [Podcast](#podcast)
+- [Subscribe](#subscribe)
 
 ## Home Page
-
-https://www.javascriptjam.com/
 
 Subscribe
 
@@ -22,3 +29,13 @@ Explore:
 Latest Articles:
 
 - Figure out later!!!
+
+## JavaScript Jam Live
+
+## Composability Summit
+
+## Newsletter Archive
+
+## Podcast
+
+## Subscribe
