@@ -43,7 +43,6 @@ Latest Articles:
   <body>
     <div></div>
     <div></div>
-    <div></div>
     <section></section>
     <div></div>
   </body>
@@ -85,10 +84,6 @@ Latest Articles:
       </div>
     </nav>
   </div>
-  <div></div>
-  <div></div>
-  <section></section>
-  <div></div>
 </body>
 ```
 
@@ -96,8 +91,6 @@ Latest Articles:
 
 ```html
 <body>
-  <div></div>
-  <div></div>
   <div>
     <div>
       <div>
@@ -175,8 +168,6 @@ Latest Articles:
       </div>
     </div>
   </div>
-  <section></section>
-  <div></div>
 </body>
 ```
 
@@ -184,9 +175,6 @@ Latest Articles:
 
 ```html
 <body>
-  <div></div>
-  <div></div>
-  <div></div>
   <section>
     <div>
       <div>
@@ -210,7 +198,6 @@ Latest Articles:
       </div>
     </div>
   </section>
-  <div></div>
 </body>
 ```
 
@@ -218,10 +205,6 @@ Latest Articles:
 
 ```html
 <body>
-  <div></div>
-  <div></div>
-  <div></div>
-  <section></section>
   <div>
     <div>
       <div>
