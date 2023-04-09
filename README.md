@@ -40,6 +40,7 @@ Latest Articles:
       content="The podcast, newsletter, and community for frontend and full-stack developers. Presented by Edgio."
     />
   </head>
+
   <body>
     <div></div>
     <div></div>
@@ -60,9 +61,11 @@ Latest Articles:
           <img src="https://javascriptjam.com/content/images/2023/02/Group-13.png">
         </a>
       </div>
+
       <div>
         <div>
           <span>Hamburger SVG</span>
+
           <ul>
             <li>
               <a href="https://www.javascriptjam.com/">Home</a>
@@ -100,6 +103,7 @@ Latest Articles:
           <p>Join a thriving community of developers creating their stack from digital building blocks.</p>
           <p>Subscribe now to receive full access to Composability Summit 2022.</p>
         </div>
+
         <div>
           <form>
             <div>
@@ -111,6 +115,7 @@ Latest Articles:
               </div>
               <p></p>
             </div>
+
             <div>
               <p><b>Thank you for subscribing!</b></p>
               <p>Please check your inbox for a link to confirm your email address.</p>
@@ -118,6 +123,7 @@ Latest Articles:
           </form>
         </div>
       </div>
+
       <div>YouTube Embed</div>
     </div>
     <div>
@@ -137,10 +143,13 @@ Latest Articles:
         <p>A podcast for frontend and full-stack developers.</p>
       </a>
     </div>
+
     <div>
       <div>
         <h2>Explore</h2>
+
         <hr>
+
         <a href="/javascript-jam-live">
           <div>🗄️</div>
           <div>
@@ -156,6 +165,7 @@ Latest Articles:
           </div>
         </a>
       </div>
+
       <div>
         <h2>Latest Articles</h2>
         <hr>
@@ -181,6 +191,7 @@ Latest Articles:
         <h2>&#128140; Subscribe to JavaScript Jam</h2>
         <p>Join a growing community of developers. Every monday we share valuable insight, tips, and news surrounding JavaScript and modern web development. We are also live on Twitter Spaces every Wednesday at 12pm PST.</p>
       </div>
+
       <div>
         <form>
           <div>
@@ -210,6 +221,7 @@ Latest Articles:
       <div>
         <div>&copy; JavaScript Jam 2023.</div>
       </div>
+
       <div>
         <ul>
           <li>
