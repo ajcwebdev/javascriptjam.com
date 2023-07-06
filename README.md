@@ -64,13 +64,12 @@ Latest Articles:
       <div>
         <div>
           <span>Hamburger SVG</span>
-
           <ul>
             <li>
               <a href="https://www.javascriptjam.com/">Home</a>
             </li>
             <li>
-              <a href="https://www.javascriptjam.com/javascript-jam-live/">JavaScript Jam Live</a>
+              <a href="https://www.javascriptjam.com/about/">About</a>
             </li>
             <li>
               <a href="https://www.javascriptjam.com/composability-summit/">Composability Summit</a>
@@ -79,7 +78,7 @@ Latest Articles:
               <a href="https://www.javascriptjam.com/newsletter/">Newsletter Archive</a>
             </li>
             <li>
-              <a href="https://www.javascriptjam.com/podcast/">Podcast</a>
+              <a href="https://www.javascriptjam.com/videos/">Videos</a>
             </li>
           </ul>
         </div>
@@ -133,12 +132,12 @@ Latest Articles:
       </a>
       <a href="/javascript-jam-live/">
         <div>🎙️</div>
-        <h2>JavaScript Jam Live</h2>
+        <h2>JavaScript Jam Live on Twitter Spaces</h2>
         <p>View the archive of our live QA, open mic, and industry interviews.</p>
       </a>
       <a href="/podcast/">
         <div>🎧</div>
-        <h2>JavaScript Jam Podcast</h2>
+        <h2>JavaScript Jam Video Podcast</h2>
         <p>A podcast for frontend and full-stack developers.</p>
       </a>
     </div>
