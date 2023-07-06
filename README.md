@@ -2,14 +2,13 @@
 
 The new and improved [JavaScript Jam](https://www.javascriptjam.com/) website built with Astro and deployed on Edgio 🚀
 
-## Outline of Pages
+## Sitemap
 
 - [Home Page](#home-page)
-- [JavaScript Jam Live](#javascript-jam-live)
+- [About](#about)
 - [Composability Summit](#composability-summit)
 - [Newsletter Archive](#newsletter-archive)
-- [Podcast](#podcast)
-- [Subscribe](#subscribe)
+- [Videos](#videos)
 
 ## Home Page
 
@@ -240,35 +239,19 @@ Latest Articles:
 </body>
 ```
 
-## JavaScript Jam Live
+## About
 
-### Audience led conversations about site speed, web performance, Jamstack and the future of the Web. Anything JavaScript goes.
+### About this site
 
-### What is JavaScript Jam Live
+JavaScript Jam is an online publication launched by the Community Growth team at Edgio. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows JavaScript Jam to continue to exist. Thank you!
 
-We are a community of JavaScript enthusiasts, developers, and professionals dedicated to sharing knowledge, resources, and the latest news about the world's most popular programming language.
+### Fresh content, delivered
 
-Our team is made up of experienced developers and industry experts who are passionate about helping others learn and grow in the field of web development. We believe that JavaScript has the power to change the world, and we are committed to sharing our knowledge and resources with the wider community.
+Stay up to date with new content sent straight to your inbox! No more worrying about whether you missed something because of a pesky algorithm or news feed.
 
-Whether you're just starting out with JavaScript or you're a seasoned pro, we have something for everyone. Follow us for updates on our events, workshops, and other educational resources, as well as the latest news and trends in the world of JavaScript.
+### Meet people like you
 
-Join us on our journey to become the go-to destination for all things JavaScript, and let's build a better future together!
-
-Join us live on Twitter Spaces every Wednesday at 12pm PST.
-
-View the archive of past live sessions below:
-
-```
-
-```
-
-### All posts by date
-
-Component with JavaScript Jam Live episodes.
-
-```
-
-```
+Join a community of other subscribers who share the same interests.
 
 ## Composability Summit
 
@@ -306,6 +289,6 @@ Component with Newsletter articles.
 
 ```
 
-## Podcast
+## Videos
 
-### The podcast for frontend and full-stack developers
+### The show for frontend and full-stack developers
